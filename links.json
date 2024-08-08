@@ -1,0 +1,65 @@
+[
+  {
+    "link": "https://glacier.fly.dev",
+    "name": "glacier.fly.dev",
+    "reccomended": true,
+    "official": true,
+    "speed": "Fast"
+  },
+  {
+    "link": "https://game.escher.lol",
+    "name": "game.escher.lol",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
+  },
+  {
+    "link": "https://pc.fuckchina.xyz/",
+    "name": "pc.f⠀⠀kchina.xyz",
+    "reccomended": true,
+    "official": false,
+    "speed": "Down"
+  },
+  {
+    "link": "https://glacier.klash.dev/",
+    "name": "glacier.klash.dev",
+    "reccomended": false,
+    "official": true,
+    "speed": "Down"
+  },
+  {
+    "link": "https://dont.feedmymonkey.com/",
+    "name": "dont.feedmymonkey.com",
+    "reccomended": true,
+    "official": true,
+    "speed": "Down"
+  },
+  {
+    "link": "https://reallycool.epicgamer.org/",
+    "name": "reallycool.epicgamer.org",
+    "reccomended": true,
+    "official": true,
+    "speed": "Down"
+  },
+  {
+    "link": "https://huge.minecraftnoob.com/",
+    "name": "huge.minecraftnoob.com",
+    "reccomended": true,
+    "official": true,
+    "speed": "Down"
+  },
+  {
+    "link": "https://worksheets.freemath.ch/",
+    "name": "worksheets.freemath.ch",
+    "reccomended": true,
+    "official": true,
+    "speed": "Down"
+  },
+  {
+    "link": "https://free.lifesciencereview.com/",
+    "name": "free.lifesciencereview.com",
+    "reccomended": true,
+    "official": true,
+    "speed": "Down"
+  }
+]
