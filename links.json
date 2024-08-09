@@ -14,13 +14,6 @@
     "speed": "Normal"
   },
   {
-    "link": "https://pc.fuckchina.xyz/",
-    "name": "pc.f⠀⠀kchina.xyz",
-    "reccomended": true,
-    "official": false,
-    "speed": "Down"
-  },
-  {
     "link": "https://glacier.klash.dev/",
     "name": "glacier.klash.dev",
     "reccomended": false,
@@ -32,6 +25,13 @@
     "name": "dont.feedmymonkey.com",
     "reccomended": true,
     "official": true,
+    "speed": "Down"
+  },
+  {
+    "link": "https://pc.fuckchina.xyz/",
+    "name": "pc.f⠀⠀kchina.xyz",
+    "reccomended": true,
+    "official": false,
     "speed": "Down"
   },
   {
@@ -60,6 +60,13 @@
     "name": "free.lifesciencereview.com",
     "reccomended": true,
     "official": true,
+    "speed": "Down"
+  },
+  {
+    "link": "https://pc.chro64.com/",
+    "name": "pc.chro64.com",
+    "reccomended": true,
+    "official": false,
     "speed": "Down"
   }
 ]
