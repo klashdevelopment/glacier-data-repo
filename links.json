@@ -7,6 +7,13 @@
     "speed": "Fast"
   },
   {
+    "link": "https://pc.chro64.com/",
+    "name": "pc.chro64.com",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
+  },
+  {
     "link": "https://game.escher.lol",
     "name": "game.escher.lol",
     "reccomended": true,
@@ -60,13 +67,6 @@
     "name": "free.lifesciencereview.com",
     "reccomended": true,
     "official": true,
-    "speed": "Down"
-  },
-  {
-    "link": "https://pc.chro64.com/",
-    "name": "pc.chro64.com",
-    "reccomended": true,
-    "official": false,
     "speed": "Down"
   }
 ]
