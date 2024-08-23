@@ -39,14 +39,14 @@
     "name": "pc.f⠀⠀kchina.xyz",
     "reccomended": true,
     "official": false,
-    "speed": "Fast"
+    "speed": "Normal"
   },
   {
     "link": "https://reallycool.epicgamer.org/",
     "name": "reallycool.epicgamer.org",
     "reccomended": true,
     "official": true,
-    "speed": "Down"
+    "speed": "Normal"
   },
   {
     "link": "https://huge.minecraftnoob.com/",
@@ -60,7 +60,7 @@
     "name": "worksheets.freemath.ch",
     "reccomended": true,
     "official": true,
-    "speed": "Down"
+    "speed": "Normal"
   },
   {
     "link": "https://free.lifesciencereview.com/",
