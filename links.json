@@ -32,7 +32,7 @@
     "name": "dont.feedmymonkey.com",
     "reccomended": true,
     "official": true,
-    "speed": "Down"
+    "speed": "Normal"
   },
   {
     "link": "https://pc.fuckchina.xyz/",
@@ -53,7 +53,7 @@
     "name": "huge.minecraftnoob.com",
     "reccomended": true,
     "official": true,
-    "speed": "Down"
+    "speed": "Normal"
   },
   {
     "link": "https://worksheets.freemath.ch/",
@@ -63,10 +63,10 @@
     "speed": "Normal"
   },
   {
-    "link": "https://free.lifesciencereview.com/",
-    "name": "free.lifesciencereview.com",
+    "link": "https://learn.englishrealm.ca/",
+    "name": "learn.englishrealm.ca",
     "reccomended": true,
     "official": true,
-    "speed": "Down"
+    "speed": "Normal"
   }
 ]
