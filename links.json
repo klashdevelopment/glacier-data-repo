@@ -47,5 +47,19 @@
     "reccomended": true,
     "official": true,
     "speed": "Normal"
+  },
+  {
+    "link": "https://worksheets.freemath.ch/",
+    "name": "worksheets.freemath.ch",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
+  },
+  {
+    "link": "https://learn.englishrealm.ca/",
+    "name": "learn.englishrealm.ca",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
   }
 ]
