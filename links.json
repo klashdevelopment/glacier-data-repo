@@ -61,5 +61,12 @@
     "reccomended": true,
     "official": true,
     "speed": "Normal"
+  },
+  {
+    "link": "https://dog.wearelearning.org/",
+    "name": "dog.wearelearning.org",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
   }
 ]
