@@ -75,5 +75,12 @@
     "reccomended": true,
     "official": true,
     "speed": "Normal"
+  },
+  {
+    "link": "https://not.counterfeitcontent.com/",
+    "name": "not.counterfeitcontent.com",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
   }
 ]
