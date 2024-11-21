@@ -82,5 +82,19 @@
     "reccomended": true,
     "official": true,
     "speed": "Normal"
+  },
+  {
+    "link": "https://app.designjobs.eu/",
+    "name": "app.designjobs.eu",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
+  },
+  {
+    "link": "https://gla.zelimmc.com/",
+    "name": "gla.zelimmc.com",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
   }
 ]
