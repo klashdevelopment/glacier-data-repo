@@ -94,7 +94,14 @@
     "link": "https://gla.zelimmc.com/",
     "name": "gla.zelimmc.com",
     "reccomended": true,
-    "official": true,
+    "official": false,
     "speed": "Normal"
+  }s,
+  {
+    "link": "http://schoology.falcongreenenergy.com/",
+    "name": "schoology.falcongreenenergy.com",
+    "reccomended": true,
+    "official": false,
+    "speed": "Slow"
   }
 ]
