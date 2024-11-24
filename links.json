@@ -98,10 +98,10 @@
     "speed": "Normal"
   }s,
   {
-    "link": "http://schoology.falcongreenenergy.com/",
-    "name": "schoology.falcongreenenergy.com",
+    "link": "http://geomap.showmyhomes.com/",
+    "name": "geomap.showmyhomes.com",
     "reccomended": true,
-    "official": false,
-    "speed": "Slow"
+    "official": true,
+    "speed": "Normal"
   }
 ]
