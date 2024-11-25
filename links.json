@@ -70,6 +70,13 @@
     "speed": "Normal"
   },
   {
+    "link": "https://cat.anysigma.net/",
+    "name": "cat.anysigma.net",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
+  },
+  {
     "link": "https://gloopy.grasslands.gavingogaming.com/",
     "name": "gloopy.grasslands.gavingogaming.com",
     "reccomended": true,
