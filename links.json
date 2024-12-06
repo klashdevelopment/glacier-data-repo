@@ -84,13 +84,6 @@
     "speed": "Normal"
   },
   {
-    "link": "https://not.counterfeitcontent.com/",
-    "name": "not.counterfeitcontent.com",
-    "reccomended": true,
-    "official": true,
-    "speed": "Normal"
-  },
-  {
     "link": "https://app.designjobs.eu/",
     "name": "app.designjobs.eu",
     "reccomended": true,
@@ -107,6 +100,20 @@
   {
     "link": "http://geomap.showmyhomes.com/",
     "name": "geomap.showmyhomes.com",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
+  },
+  {
+    "link": "http://glacieris.betterthanarchmc.lol/",
+    "name": "glacieris.betterthanarchmc.lol",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
+  },
+  {
+    "link": "http://webosproject.masplenedigitalworld.com/",
+    "name": "webosproject.masplenedigitalworld.com",
     "reccomended": true,
     "official": true,
     "speed": "Normal"
