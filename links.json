@@ -112,6 +112,20 @@
     "speed": "Normal"
   },
   {
+    "link": "http://glassmelting.duckdns.org/",
+    "name": "glassmelting.duckdns.org",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
+  },
+  {
+    "link": "http://glacier.is-a-good.dev/",
+    "name": "glacier.is-a-good.dev",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
+  },
+  {
     "link": "http://webosproject.masplenedigitalworld.com/",
     "name": "webosproject.masplenedigitalworld.com",
     "reccomended": true,
