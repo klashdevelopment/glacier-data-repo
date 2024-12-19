@@ -14,6 +14,13 @@
     "speed": "Normal"
   },
   {
+    "link": "https://glacier.webmc.xyz/",
+    "name": "glacier.webmc.xyz",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
+  },
+  {
     "link": "https://game.escher.lol",
     "name": "game.escher.lol",
     "reccomended": true,
