@@ -119,6 +119,13 @@
     "speed": "Normal"
   },
   {
+    "link": "http://glaciereducation.io-lng-en.com/",
+    "name": "glaciereducation.io-lng-en.com",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
+  },
+  {
     "link": "http://glassmelting.duckdns.org/",
     "name": "glassmelting.duckdns.org",
     "reccomended": true,
