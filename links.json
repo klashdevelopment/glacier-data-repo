@@ -30,9 +30,9 @@
   {
     "link": "https://glacier.klash.dev/",
     "name": "glacier.klash.dev",
-    "reccomended": false,
+    "reccomended": true,
     "official": true,
-    "speed": "Down"
+    "speed": "Fast"
   },
   {
     "link": "https://dont.feedmymonkey.com/",
