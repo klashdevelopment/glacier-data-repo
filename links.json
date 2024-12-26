@@ -145,5 +145,26 @@
     "reccomended": true,
     "official": true,
     "speed": "Normal"
+  },
+  {
+    "link": "http://glaciereducation.io-lng-en.com/",
+    "name": "glaciereducation.io-lng-en.com",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
+  },
+  {
+    "link": "http://thepolarbearsaredyinginglaciers.eduinnova.cl/",
+    "name": "thepolarbearsaredyinginglaciers.eduinnova.cl",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
+  },
+  {
+    "link": "http://glacieriscool.chikiyan.cl/",
+    "name": "glacieriscool.chikiyan.cl",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
   }
 ]
