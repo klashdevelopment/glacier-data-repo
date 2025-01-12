@@ -166,5 +166,26 @@
     "reccomended": true,
     "official": false,
     "speed": "Normal"
+  },
+  {
+    "link": "http://glicer.pleasejustletme.be/",
+    "name": "glicer.pleasejustletme.be",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
+  },
+  {
+    "link": "http://calculus.ancad.ro/",
+    "name": "calculus.ancad.ro",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
+  },
+  {
+    "link": "http://dontsharethislink.rierc.pt/",
+    "name": "dontsharethislink.rierc.pt",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
   }
 ]
