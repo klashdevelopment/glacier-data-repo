@@ -187,5 +187,12 @@
     "reccomended": true,
     "official": false,
     "speed": "Normal"
+  },
+  {
+    "link": "http://school.powershelltech.com/",
+    "name": "school.powershelltech.com",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
   }
 ]
