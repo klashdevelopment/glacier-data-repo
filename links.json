@@ -194,5 +194,12 @@
     "reccomended": true,
     "official": false,
     "speed": "Normal"
+  },
+  {
+    "link": "http://school.paulopedron.com/",
+    "name": "school.paulopedron.com",
+    "reccomended": true,
+    "official": false,
+    "speed": "Normal"
   }
 ]
