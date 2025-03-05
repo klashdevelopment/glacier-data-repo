@@ -4,7 +4,28 @@
     "name": "glacier.fly.dev",
     "reccomended": true,
     "official": true,
-    "speed": "Fast"
+    "speed": "Normal"
+  },
+  {
+    "link": "https://travel.japan.is",
+    "name": "travel.japan.is",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
+  },
+  {
+    "link": "https://visit.china.is",
+    "name": "visit.china.is",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
+  },
+  {
+    "link": "https://recipes.food.is",
+    "name": "recipes.food.is",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
   },
   {
     "link": "https://pc.chro64.com/",
@@ -77,22 +98,8 @@
     "speed": "Normal"
   },
   {
-    "link": "https://cat.anysigma.net/",
-    "name": "cat.anysigma.net",
-    "reccomended": true,
-    "official": false,
-    "speed": "Normal"
-  },
-  {
     "link": "https://gloopy.grasslands.gavingogaming.com/",
     "name": "gloopy.grasslands.gavingogaming.com",
-    "reccomended": true,
-    "official": true,
-    "speed": "Normal"
-  },
-  {
-    "link": "https://app.designjobs.eu/",
-    "name": "app.designjobs.eu",
     "reccomended": true,
     "official": true,
     "speed": "Normal"
@@ -102,13 +109,6 @@
     "name": "gla.zelimmc.com",
     "reccomended": true,
     "official": false,
-    "speed": "Normal"
-  },
-  {
-    "link": "http://geomap.showmyhomes.com/",
-    "name": "geomap.showmyhomes.com",
-    "reccomended": true,
-    "official": true,
     "speed": "Normal"
   },
   {
@@ -126,22 +126,8 @@
     "speed": "Normal"
   },
   {
-    "link": "http://glassmelting.duckdns.org/",
-    "name": "glassmelting.duckdns.org",
-    "reccomended": true,
-    "official": true,
-    "speed": "Normal"
-  },
-  {
     "link": "http://glacier.is-a-good.dev/",
     "name": "glacier.is-a-good.dev",
-    "reccomended": true,
-    "official": true,
-    "speed": "Normal"
-  },
-  {
-    "link": "http://webosproject.masplenedigitalworld.com/",
-    "name": "webosproject.masplenedigitalworld.com",
     "reccomended": true,
     "official": true,
     "speed": "Normal"
@@ -168,13 +154,6 @@
     "speed": "Down"
   },
   {
-    "link": "http://glicer.pleasejustletme.be/",
-    "name": "glicer.pleasejustletme.be",
-    "reccomended": true,
-    "official": false,
-    "speed": "Normal"
-  },
-  {
     "link": "http://calculus.ancad.ro/",
     "name": "calculus.ancad.ro",
     "reccomended": true,
@@ -195,11 +174,4 @@
     "official": false,
     "speed": "Normal"
   },
-  {
-    "link": "http://school.paulopedron.com/",
-    "name": "school.paulopedron.com",
-    "reccomended": true,
-    "official": false,
-    "speed": "Normal"
-  }
 ]
