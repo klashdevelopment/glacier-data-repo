@@ -5,5 +5,19 @@ GLOSLINKDATA[
     "reccomended": true,
     "official": true,
     "speed": "Normal"
+  },
+  {
+    "link": "https://glacier.colbster937.dev",
+    "name": "glacier.colbster937.dev",
+    "reccomended": true,
+    "official": true,
+    "speed": "Normal"
+  },
+  {
+    "link": "https://glacieros.web.app",
+    "name": "glacieros.web.app",
+    "reccomended": false,
+    "official": true,
+    "speed": "Normal"
   }
 ]
